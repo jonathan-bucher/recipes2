@@ -1,7 +1,9 @@
 # Guacamole
 ## Ingredients
 
--Un aguacate
--Picante
+- Un aguacate
+- Picante
+- Limon
+- Sal
 
 ## Instructions
