@@ -1,6 +1,3 @@
-Here’s a zesty description for your guacamole recipe README:
-
----
 
 # Guac-tacular Delight 🌶️🥑
 
